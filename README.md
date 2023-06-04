@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminboruff
 - 👀 I’m interested in rust.
-- 🌱 I’m currently learning rust.
+- 🌱 I’m currently learning rust by upgrading my old JS projects to sycamore (rust).
 - 📫 How to reach me benboruff@gmail.com
 
 <!---
