@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminboruff
-- 👀 I’m interested in rust and zig.
-- 🌱 I’m currently learning rust by upgrading my old JS projects to sycamore (rust).
+- 👀 I’m interested in php, rust and zig.
+- 🌱 I’m currently learning rust and zig; and FrankenPHP with Laravel.
 - 📫 How to reach me benboruff@gmail.com
 
 <!---
