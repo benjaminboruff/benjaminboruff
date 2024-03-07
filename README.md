@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminboruff
 - 👀 I’m interested in php, htmx, _hyperscript, and zig.
-- 🌱 I’m currently learning zig, and slim php framework.
+- 🌱 I’m currently learning zig, and the slim php framework.
 - 📫 How to reach me benboruff@gmail.com
 
 <!---
