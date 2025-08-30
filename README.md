@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjaminboruff
-- 👀 I’m interested in Go, htmx, _hyperscript, and zig.
+- 👀 I’m interested in `go`, `htmx`, `_hyperscript`, and `zig`.
 - 🌱 I’m currently learning `zig`, and using `go` for web apps.
 - 📫 How to reach me benboruff@gmail.com
 
